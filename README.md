@@ -253,35 +253,35 @@ GrowMate/
 
 Images located under `ScreenShot-app/`.
 
-![Main Dashboard](ScreenShot-app/Crop%20Management%20dashboard.jpg)
-![Crop Recommendation](ScreenShot-app/Crop_recommendation.jpg)
-![Recommendation Result](ScreenShot-app/Crop_Reco_result.jpg)
-![Disease Detection](ScreenShot-app/Disease_detection.jpg)
-![Detected Disease](ScreenShot-app/Disease_detected.jpg)
-![Pest Module](ScreenShot-app/Pest.jpg)
-![Pest Detection](ScreenShot-app/Pest_detect.jpg)
-![Pest Detected Precautions](ScreenShot-app/precautions_pest_detected.jpg)
-![Pest Report](ScreenShot-app/pest_report.jpg)
-![Geo Coordinates](ScreenShot-app/GeoCoordinates.jpg)
-![Geo Result](ScreenShot-app/GeoCoordinates_result.jpg)
-![Soil Humidity](ScreenShot-app/soil%20humidity.jpg)
-![Precipitation Forecast](ScreenShot-app/precipitation%20forecast.jpg)
-![Yield Prediction](ScreenShot-app/yield%20prediction.jpg)
-![Predicted Yield](ScreenShot-app/predicted%20yield.jpg)
-![Optimized Yield](ScreenShot-app/optimized%20yield.jpg)
-![Market Prices](ScreenShot-app/Market.jpg)
-![Live News](ScreenShot-app/live_news.jpg)
-![Schemes](ScreenShot-app/subsidies.jpg)
-![Chatbot](ScreenShot-app/Chatbot.jpg)
-![Community](ScreenShot-app/Community.jpg)
-![Explore Community](ScreenShot-app/explore_community.jpg)
-![Pedia](ScreenShot-app/guide.jpg)
-![Pedia Detail](ScreenShot-app/guide_des.jpg)
-![Tools & Machines](ScreenShot-app/tools_machine.jpg)
-![Game](ScreenShot-app/game.jpg)
-![Game Output](ScreenShot-app/game_output.jpg)
-![Game 1](ScreenShot-app/game1.jpg)
-![Game 1 Output](ScreenShot-app/game1_output.jpg)
+<img src="ScreenShot-app/Crop%20Management%20dashboard.jpg" alt="Main Dashboard" width="300" />
+<img src="ScreenShot-app/Crop_recommendation.jpg" alt="Crop Recommendation" width="300" />
+<img src="ScreenShot-app/Crop_Reco_result.jpg" alt="Recommendation Result" width="300" />
+<img src="ScreenShot-app/Disease_detection.jpg" alt="Disease Detection" width="300" />
+<img src="ScreenShot-app/Disease_detected.jpg" alt="Detected Disease" width="300" />
+<img src="ScreenShot-app/Pest.jpg" alt="Pest Module" width="300" />
+<img src="ScreenShot-app/Pest_detect.jpg" alt="Pest Detection" width="300" />
+<img src="ScreenShot-app/precautions_pest_detected.jpg" alt="Pest Detected Precautions" width="300" />
+<img src="ScreenShot-app/pest_report.jpg" alt="Pest Report" width="300" />
+<img src="ScreenShot-app/GeoCoordinates.jpg" alt="Geo Coordinates" width="300" />
+<img src="ScreenShot-app/GeoCoordinates_result.jpg" alt="Geo Result" width="300" />
+<img src="ScreenShot-app/soil%20humidity.jpg" alt="Soil Humidity" width="300" />
+<img src="ScreenShot-app/precipitation%20forecast.jpg" alt="Precipitation Forecast" width="300" />
+<img src="ScreenShot-app/yield%20prediction.jpg" alt="Yield Prediction" width="300" />
+<img src="ScreenShot-app/predicted%20yield.jpg" alt="Predicted Yield" width="300" />
+<img src="ScreenShot-app/optimized%20yield.jpg" alt="Optimized Yield" width="300" />
+<img src="ScreenShot-app/Market.jpg" alt="Market Prices" width="300" />
+<img src="ScreenShot-app/live_news.jpg" alt="Live News" width="300" />
+<img src="ScreenShot-app/subsidies.jpg" alt="Schemes" width="300" />
+<img src="ScreenShot-app/Chatbot.jpg" alt="Chatbot" width="300" />
+<img src="ScreenShot-app/Community.jpg" alt="Community" width="300" />
+<img src="ScreenShot-app/explore_community.jpg" alt="Explore Community" width="300" />
+<img src="ScreenShot-app/guide.jpg" alt="Pedia" width="300" />
+<img src="ScreenShot-app/guide_des.jpg" alt="Pedia Detail" width="300" />
+<img src="ScreenShot-app/tools_machine.jpg" alt="Tools & Machines" width="300" />
+<img src="ScreenShot-app/game.jpg" alt="Game" width="300" />
+<img src="ScreenShot-app/game_output.jpg" alt="Game Output" width="300" />
+<img src="ScreenShot-app/game1.jpg" alt="Game 1" width="300" />
+<img src="ScreenShot-app/game1_output.jpg" alt="Game 1 Output" width="300" />
 
 ### Government Web Portal
 
