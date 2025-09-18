@@ -253,9 +253,9 @@ GrowMate/
 
 Images located under `ScreenShot-app/`.
 
-<img src="ScreenShot-app/Crop%20Management%20dashboard.jpg" alt="Main Dashboard" width="300" />
+<img src="ScreenShot-app/Crop%20Management%20dashboard.jpg" alt="Main Dashboard" width="500" />
 <img src="ScreenShot-app/Crop_recommendation.jpg" alt="Crop Recommendation" width="300" />
-<img src="ScreenShot-app/Crop_Reco_result.jpg" alt="Recommendation Result" width="300" />
+<img src="ScreenShot-app/Crop_Reco_result.jpg" alt="Recommendation Result" width="300"  />
 <img src="ScreenShot-app/Disease_detection.jpg" alt="Disease Detection" width="300" />
 <img src="ScreenShot-app/Disease_detected.jpg" alt="Detected Disease" width="300" />
 <img src="ScreenShot-app/Pest.jpg" alt="Pest Module" width="300" />
